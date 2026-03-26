@@ -14,7 +14,7 @@
 - ☁️ Hosted on Render,
 
 🚀 Live Link 
-🔗 https://mern-thinkboard-1-d9yq.onrender.com
+🔗 https://mern-thinkboard-m2jz.onrender.com
 
 🛠️ Tech Stack
 
